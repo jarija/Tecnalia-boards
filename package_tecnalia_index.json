@@ -16,10 +16,10 @@
           "help": {"online": "https://www.tecnalia.com/arduino/tecnalia-boards/"},
           "url": "https://github.com/jarija/Tecnalia-Boards/raw/master/files/tecnalia-avr.zip",
           "archiveFileName": "tecnalia-avr-1.0.0.zip",
-          "size": "1446456",
+          "size": "1136834",
           "boards": [
             {"name": "ATmega328PB (Pro Mini PB)"},
-            {"name": "ATmega328P (Pro Mini)"},
+            {"name": "ATmega328P (Pro Mini)"}
           ],
         },
       ],
