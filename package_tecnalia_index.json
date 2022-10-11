@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "tecnalia",
+      "maintainer": "Tecnalia",
+      "websiteURL": "https://www.tecnalia.com",
+      "email": "",
+      "help": {"online": "https://www.tecnalia.com/arduino/tecnalia-boards/"},
+
+      "platforms": [
+        {
+          "name": "Tecnalia AVR Boards (dependency: Arduino AVR Boards)",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "contributed",
+          "help": {"online": "https://www.tecnalia.com/arduino/tecnalia-boards/"},
+          "url": "https://github.com/jarija/Tecnalia-Boards/raw/master/files/tecnalia-avr.zip",
+          "archiveFileName": "tecnalia-avr-1.0.0.zip",
+          "size": "1446456",
+          "boards": [
+            {"name": "ATmega328PB (Pro Mini PB)"},
+            {"name": "ATmega328P (Pro Mini)"},
+          ],
+        },
+      ],
+    }
+  ]
+}
