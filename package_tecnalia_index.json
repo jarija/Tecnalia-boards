@@ -20,9 +20,9 @@
           "boards": [
             {"name": "ATmega328PB (Pro Mini PB)"},
             {"name": "ATmega328P (Pro Mini)"}
-          ],
-        },
-      ],
+          ]
+        }
+      ]
     }
   ]
 }
